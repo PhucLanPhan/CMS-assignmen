@@ -6,9 +6,9 @@ The following is how development is recommended for this project
 
 2. Create a local environment database server in the link localhost/phpmyadmin, then create a database sql on the name of the website. Import the database into the database that just been created, the current sql of the website should be under the name 'jcubhomefinder-2.zip' in  <a href="https://github.com/PhucLanPhan/CMS-assignmen.git">GitHub repository.</a>
 
-3. Clone or download the zip  <a href="https://github.com/PhucLanPhan/CMS-assignmen.git">GitHub</a> repository called 'jcub-home-finder.zip' onto your desktop and unzip the folder if you downloaded it. This is the full entire site 
+3. Clone or download the file from  <a href="https://github.com/PhucLanPhan/CMS-assignmen.git">GitHub</a> repository called 'jcub-home-finder.zip' onto your desktop and unzip the folder if you downloaded it. This is the full entire site 
 
-4. Clone or download the zip from <a href="https://github.com/PhucLanPhan/CMS-assignmen.git">GitHub</a>  repository called 'jcub-home-finder' onto your desktop and unzip the folder if you downloaded it. This is the child theme for the entire  site
+4. Clone or download the file from <a href="https://github.com/PhucLanPhan/CMS-assignmen.git">GitHub</a>  repository called 'jcub-home-finder' onto your desktop and unzip the folder if you downloaded it. This is the child theme for the entire  site
 
 5. To develop features or edit/update existing features create a new branch in the repository, appropriately named by user for version control. Note new developments, edits, and updates should be lodged on the Trello board, names for branches taken from theses card names. The Trello board effectively project manages and keeps a historical record of the project.
 
