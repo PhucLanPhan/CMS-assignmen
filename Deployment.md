@@ -2,7 +2,7 @@
 
 The following is how development is recommended for this project
 
-1. Download and install <a href="https://www.apachefriends.org/">XAMPP</a>
+1. Download and install <a href="https://www.apachefriends.org/">XAMPP</a> or <a href="https://www.mamp.info/en/mamp/mac/">MAMP</a>
 
 2. Create a local environment database server in the link localhost/phpmyadmin, then create a database sql on the name of the website. Import the database into the database that just been created, the current sql of the website should be under the name 'jcubhomefinder-2.zip' in  <a href="https://github.com/PhucLanPhan/CMS-assignmen.git">GitHub repository.</a>
 
