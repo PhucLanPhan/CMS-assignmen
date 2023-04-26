@@ -1,5 +1,5 @@
 
-# Homeplan
+# HReal Home
 
 **Theme URL** : https://underscores.me/ <br>
 **Author** : Automattic <br>
