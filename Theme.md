@@ -1,46 +1,29 @@
 
-# HReal Home
+# Real Home
 
-**Theme URL** : https://underscores.me/ <br>
-**Author** : Automattic <br>
-**Auther URL** : https://automattic.com/ <br>
-**Viersion** : 1.0.0 <br>
-**Requires PHP** : 5.6 <br>
-**License** : GNU General public License v2 or later <br>
+**Theme URL** : https://aarambhathemes.com/themes/real-home/ <br>
+**Author** :  Aarambha Themes <br>
+**Auther URL** : https://aarambhathemes.com/ <br>
+**Viersion** : 1.0.6 <br>
+**Requires PHP** : 7.0 <br>
+**License** : GPLv3 or later <br>
 # Description
 
-Uderscroes (or ' -s') is the most poular of all WordPress starter themes. Also, it is from the WordPress team itself. It is a minialist starter theme. The clean code is most powerful part of Underscores starter theme. It is also useful to build a standard compliant WordPress theme.
-
-Best part about Underscores on the following feature: <br>
-
-- Majority of the codebase (optimised with comments)
-- The lack of CSS (freedom for writing own stylesheets)
-- Download directly form GitHub or official website
-- Available with a SASS confifuration
+Real Home is a super flexible and modernized free WordPress Theme for real estate agents and companies. It facilitates purpose oriented designs with innumerable powerful features that a real estate business can benefit from. Real Home is gracefully handicraft to beautifully present properties information to website visitors and smoothens its structure for making property management easier. It is a unique theme with multiple varieties which saves both time and money when creating your seller/rental platforms.
 
 # Installation
+Follow the steps below to get started with your WordPress Theme
 
-## From GitHub 
-
-1. Visit https://github.com/Automattic/_s
-2. Click "Code > Download Zip"
-3. Open WordPress
-4. Visit "Appearance > Themes > Add New"
-5. Drop downloaded zip
-
-## From Website
-
-1. visit https://underscores.me/
-2. Click "Generate"
-3. Automatically download theme zip file
-4. Open WordPress
-5. Visit "Apprearance > Themes > Add New"
-6. Drop downloaded zip
-
+1. visit https://aarambhathemes.com/themes/
+2. Download real-home.zip
+3. Now log in to the WordPress admin dashboard
+4. Go to  Appearance> Themes > Add New >  Upload theme.
+5. Upload real-home.zip and Activate themes.
 
 # License
 
-GNU General public License v2 or later
+GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 # Features
 
