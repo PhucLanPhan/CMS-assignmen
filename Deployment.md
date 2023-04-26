@@ -1,3 +1,7 @@
+# Version Control 
+
+Version control of GitHub helps us practice of tracking, managing and comparing the old and the new version of the code that has been commited by each team member to the repository. However, in this assignment, we have not done version control in github until today. We use word document as a learning journal and updated website day by day. Therefore, on the last day of submission, we only have one day to gather all our learning journal to submit the complete file like this.
+
 # Project Management
 To facilitate our communication and task management, we have used Slack Channel, GitHub repository and Trello board.
 
