@@ -1,29 +1,45 @@
-# Adding Pages and Posts
+# Adding Pages, Category and Posts
 
 ## New page
 
 1. Log in to the WordPress admin
 2. Click `Pages` menu on WordPress sidebar
-3. All exist pages are shown
+3. All existing pages are shown
 4. Click `Add New` to create a new page
-5. Write a new page 
+5. Add title, content and images
 6. Click `Publish`
 
-
-## New post
+## Add content on Accommodation Page (AP)
 
 1. Log in to the WordPress admin
-2. Click `Posts` menu on WordPress sidebar
-3. All exist posts are shown
-4. Click `Add New` to create a new post
-5. Write a new post
-6. Select `Categories` on posts sidebar
+2. Click `Pages` menu on WordPress sidebar
+3. All existing pages are shown
+4. Click `AP` 
+5. Click toggle block inserter to add column 
+6. After clicking that you can click query loop which will pool the posts that you have added.
 7. Click `Publish`
 
 
-Labyrinth Consulting website currently has 11 Pages and 0 post. 
+## New Post (Used to add Accomodation)
 
+1. Log in to the WordPress admin
+2. Click `Posts` menu on WordPress sidebar
+3. All existing posts will be displayed
+4. Click `Add New` to add new accomodation
+5. Add accomodation address, details and images
+6. Select `Categories` on posts sidebar
+7. Click `Publish`
 
+## New Category
+
+1. Log in to the WordPress admin
+2. Click `Posts` menu on WordPress sidebar
+3. All existing categories will be shown
+4. Click `Add New` to create a new category
+5. Add name
+6. Click `Add Category`
+
+All together there are `3 Posts` and `21 Pages` for the child theme JCUB Home Finder
 
 # Editing exist Pages and Posts
 
@@ -31,8 +47,8 @@ Labyrinth Consulting website currently has 11 Pages and 0 post.
 
 1. Log in to the WordPress admin
 2. Click `Pages` menu on WordPress sidebar
-3. All exist pages are shown
-4. Click the name of Page which want to change
+3. All existing pages are loaded
+4. Click the name of Page which want to edit
 5. Edit the page
 6. Click `Update`
 
@@ -41,12 +57,12 @@ Labyrinth Consulting website currently has 11 Pages and 0 post.
 
 1. Log in to the WordPress admin
 2. Click `Posts` menu on WordPress sidebar
-3. All exist posts are shown
-4. Click the name of post which want to chage
+3. All existing posts are loaded
+4. Click the name of post which you want to edit
 5. Edit the post
 6. Click `Update`
 
-**NOTICE** When update a new `page` / `post`, the previous `page` / `post` is lost
+**WARNING** When update a new `page` / `post`, the older one will be lost forever.
 
 
 
