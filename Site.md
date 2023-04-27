@@ -15,9 +15,10 @@
 2. Click `Pages` menu on WordPress sidebar
 3. All existing pages are shown
 4. Click `AP` 
-5. Click toggle block inserter to add column 
-6. After clicking that you can click query loop which will pool the posts that you have added.
-7. Click `Publish`
+5. Click toggle block inserter `+`  to add column 
+6. After you click that type query loop.
+7. Click query loop which will pull the posts that you have added at Posts.
+8. Click `Publish`
 
 
 ## New Post (Used to add Accomodation)
