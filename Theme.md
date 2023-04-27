@@ -27,29 +27,29 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 # Features
 
-## Labyrinth Child Theme
+## JCUB Home Finder
 
-We used a plugin called "Child theme configurator" which is fast and easy to create a child theme to makes a copy of the Underscores theme and we named as Labyrinth Child Theme.
+We used a plugin called "Generate Child Theme" which is fast and easy to create a child theme to makes a copy of the Real Home and we named  JCUB Home Finder.
 
-We added folloing information in Labyrinth Child Theme as shown below:
+We added folloing information in JCUB Home Finder as child theme which is shown below:
  
-**Theme Name** : Labyrinth Child Theme <br>
-**Theme URL** : https://underscores.me/ <br>
-**Description** : Underscores Child Theme <br>
-**Template** : Underscores <br>
-**Author** : Automattic <br>
-**Auther URL** : https://automattic.com/ <br>
-**Version** : 2.0.0 <br>
-**Updated** :  <br>
+**Theme Name** : JCUB Home Finder <br>
+**Theme URL** : https://aarambhathemes.com/themes/real-home/ <br>
+**Description** : Real Home Child Theme <br>
+**Template** : real-home <br>
+**Author** : JCUB Home Finder <br> 
+**Auther URL** : https://aarambhathemes.com/ <br>
+**Version** : 1.0.0 <br>
 
 ## Updated
 
+Since the time was very limited nearly 3 and half week thus all the testing were done on localhost rather then the staging site. Thus, here are some of the 
 log of updated as shown below:
 
-- Change Logo position (11/08/2022)
-- Change nav position (11/08/2022)
-- Make current page box layer (11/08/2022)
-- Make sub-menu dropbox (11/08/2022)
-- The background color for the sub-menu (13/08/2022)
-- Delete the extra text in the footer.php (13/08/2022)
-- Upload the child theme version 2.0 (13/08/2022)
+- Change Logo (09/04/2023)
+- Fixed nav position (09/04/2023)
+- Added sub-menu (09/08/2023)
+- Typography and color coding was changed (12/04/2023)
+- Delete extra informationa and contents from homepage and footer section.(13/04/2023)
+- Uploaded child theme version 1.0 (13/04/2023)
+- Added content into Student and AP pages (17/04/2023)
