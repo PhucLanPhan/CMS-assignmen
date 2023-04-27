@@ -28,7 +28,7 @@ We use this web hosting provider called <a href="https://www.dreamhost.com/">Dre
 * Free SSL Certificate
 * 24/7 Support
 
-We use this service for both <a href="https://jcubhomefindercom.stage.site/">Production Site</a> and <a href="https://jcubhomefindercom.stage.site/">Staging Site</a> .
+We use this service for both <a href="https://www.jcubhomefinder.com/">Production Site</a> and <a href="https://jcubhomefindercom.stage.site/">Staging Site</a> .
 
 Even though it was not free but we manage to grab the domain name along with the hosting which is worth it.
 
