@@ -49,7 +49,7 @@ All together there are `3 Posts` and `21 Pages` for the child theme JCUB Home Fi
 1. Log in to the WordPress admin
 2. Click `Pages` menu on WordPress sidebar
 3. All existing pages are loaded
-4. Click the name of Page which want to edit
+4. Click the name of Page which you want to edit
 5. Edit the page
 6. Click `Update`
 
