@@ -18,5 +18,7 @@ The custom theme for this Project is called jcub-home-finder and it is in main r
 
 * [GITHUB Environment](https://github.com/PhucLanPhan/CMS-assignmen.git)
 
+This is a link to our Production Site: https://jcubhomefindercom.stage.site/
+
 This is a link to our video Presentation for Group 1:
 * 
