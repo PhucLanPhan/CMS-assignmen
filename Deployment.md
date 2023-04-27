@@ -18,19 +18,24 @@ The following is how development is recommended for this project
 
 
 # Web Hosting
-We use this web hosting provider called <a href="https://infinityfree.net">infinityfree</a> because it offers the following  
-* An autoinstaller with more than 400 different applications, including WordPress
-* Free subdomains
-* Unlimited storage
-* Unlimited bandwidth
-* 400 MySQL databases
-* Knowledgebase support
+We use this web hosting provider called <a href="https://www.dreamhost.com/">Dreamhost</a> because it offers the following  
+* Unlimited Websites
+* Add Domains Easily
+* Unlimited Traffic
+* Unmetered Bandwidth
+* 30GB SSD Storage
+* 1-Click Install Wordpress
+* Free SSL Certificate
+* 24/7 Support
 
 We use this service for both Production Site and Staging Site.
 
-Its totally free you just need to sign up with an account. Below will show you how the web hosting site looks like
+Even though it was not free but we manage to grab the domain name along with the hosting which is worth it.
 
-![infinityfree-2](https://user-images.githubusercontent.com/68360382/148569386-b2453342-c232-4e2d-ae22-819eb7c1d43c.png)
+
+
+![Dreamhost](https://user-images.githubusercontent.com/114546849/234907042-a1ade259-a637-436a-aa10-8876316c9a46.PNG)
+
 
 # Version Control 
 
