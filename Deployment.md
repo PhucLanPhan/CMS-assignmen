@@ -6,7 +6,7 @@ The following is how development is recommended for this project
 
 2. Create a local environment database server in the link localhost/phpmyadmin, then create a database sql on the name of the website. Import the database into the database that just been created, the current sql of the website should be under the name 'jcubhomefinder-2.zip' in  <a href="https://github.com/PhucLanPhan/CMS-assignmen.git">GitHub repository.</a>
 
-3. Clone or download the file from  <a href="https://github.com/PhucLanPhan/CMS-assignmen.git">GitHub</a> repository called 'jcub-home-finder.zip' onto your desktop and unzip the folder if you downloaded it. This is the full entire site 
+3. Since Github won't let us to upload a large size file, we uploaded it to Google Drive. This is the full entire site <a href="https://drive.google.com/file/d/1yTMgs9IGKYnFOw9PI_X0WhrwUsZXlija/view?usp=share_link">Click here</a> . 
 
 4. Clone or download the folder from <a href="https://github.com/PhucLanPhan/CMS-assignmen.git">GitHub</a>  repository called 'jcub-home-finder' onto your desktop and unzip the folder if you downloaded it. This is the child theme for the entire  site
 
