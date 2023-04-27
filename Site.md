@@ -63,7 +63,7 @@ All together there are `3 Posts` and `21 Pages` for the child theme JCUB Home Fi
 5. Edit the post
 6. Click `Update`
 
-**WARNING** When update a new `page` / `post`, the older one will be lost forever.
+**WARNING** When you update `page` / `post`, the older one will be lost forever.
 
 
 
