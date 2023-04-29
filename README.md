@@ -20,5 +20,5 @@ The custom theme for this Project is called jcub-home-finder and it is in main r
 
 This is a link to our Production Site: https://www.jcubhomefinder.com/
 
-This is a link to our video Presentation for Group 1:
+This is a link to our video Presentation for Group 1: https://youtu.be/Zq9Gc-mQZDc
 * 
